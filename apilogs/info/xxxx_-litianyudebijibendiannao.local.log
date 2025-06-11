@@ -1,0 +1,21 @@
+2025-06-11 18:44:38,799 INFO [main] c.l.o.s.Main Starting Main using Java 21.0.2 on litianyudebijibendiannao.local with PID 29021 (/Users/litianyu/IdeaProjects/springboot-021/springboot/target/classes started by litianyu in /Users/litianyu/IdeaProjects/springboot-021)
+2025-06-11 18:44:38,799 INFO [main] c.l.o.s.Main No active profile set, falling back to 1 default profile: "default"
+2025-06-11 18:44:39,069 INFO [main] o.a.c.h.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-11 18:44:39,070 INFO [main] o.a.c.c.StandardService Starting service [Tomcat]
+2025-06-11 18:44:39,070 INFO [main] o.a.c.c.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-11 18:44:39,098 INFO [main] o.a.c.c.C.[.[.[/] Initializing Spring embedded WebApplicationContext
+2025-06-11 18:44:39,185 INFO [main] o.a.c.h.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2025-06-11 18:44:39,194 INFO [main] c.l.o.s.Main Started Main in 0.513 seconds (JVM running for 0.966)
+2025-06-11 18:45:21,246 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-11 18:45:50,212 INFO [main] c.l.o.s.Main Starting Main using Java 21.0.2 on litianyudebijibendiannao.local with PID 29054 (/Users/litianyu/IdeaProjects/springboot-021/springboot/target/classes started by litianyu in /Users/litianyu/IdeaProjects/springboot-021)
+2025-06-11 18:45:50,212 INFO [main] c.l.o.s.Main No active profile set, falling back to 1 default profile: "default"
+2025-06-11 18:45:50,473 INFO [main] o.a.c.h.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-11 18:45:50,473 INFO [main] o.a.c.c.StandardService Starting service [Tomcat]
+2025-06-11 18:45:50,473 INFO [main] o.a.c.c.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-06-11 18:45:50,496 INFO [main] o.a.c.c.C.[.[.[/] Initializing Spring embedded WebApplicationContext
+2025-06-11 18:45:50,581 INFO [main] o.a.c.h.Http11NioProtocol Starting ProtocolHandler ["http-nio-8080"]
+2025-06-11 18:45:50,590 INFO [main] c.l.o.s.Main Started Main in 0.495 seconds (JVM running for 0.863)
+2025-06-11 18:46:04,248 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-11 18:46:04,267 INFO [http-nio-8080-exec-1] c.l.o.s.c.TestController path:/hello | param: RanTing | level: info
+2025-06-11 18:46:04,268 WARN [http-nio-8080-exec-1] c.l.o.s.c.TestController path:/hello | param: RanTing | level: warn
+2025-06-11 18:46:04,268 ERROR [http-nio-8080-exec-1] c.l.o.s.c.TestController path:/hello | param: RanTing | level: error
